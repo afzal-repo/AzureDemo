@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\afzal\\OneDrive\\Desktop\\DeletePrograms\\AzureDemo\\AzureDemo\\AzureDemo.csproj",
+      "projectUniqueName": "C:\\Training\\Microsoft-Certifications\\AZ_Demos\\GIT_Code\\AzureDemo\\AzureDemo\\AzureDemo.csproj",
       "projectName": "AzureDemo",
-      "projectPath": "C:\\Users\\afzal\\OneDrive\\Desktop\\DeletePrograms\\AzureDemo\\AzureDemo\\AzureDemo.csproj",
+      "projectPath": "C:\\Training\\Microsoft-Certifications\\AZ_Demos\\GIT_Code\\AzureDemo\\AzureDemo\\AzureDemo.csproj",
       "packagesPath": "C:\\Users\\afzal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\afzal\\OneDrive\\Desktop\\DeletePrograms\\AzureDemo\\AzureDemo\\obj\\",
+      "outputPath": "C:\\Training\\Microsoft-Certifications\\AZ_Demos\\GIT_Code\\AzureDemo\\AzureDemo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\afzal\\AppData\\Roaming\\NuGet\\NuGet.Config",
